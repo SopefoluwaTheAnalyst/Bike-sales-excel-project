@@ -1,4 +1,4 @@
-# Bike Sales Dashboard
+# Bike Sales Analysis
 
 Objective:
 This project aims to gain insights into the factors that influence bike purchases. This involves cleaning the data by removing duplicates, categorizing ages into different brackets, and creating a dashboard with relevant visualizations.
